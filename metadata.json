@@ -1,0 +1,5 @@
+{
+  "name": "AI Hospital Scheduler ",
+  "description": "An AI-powered application that uses classical planning principles to generate conflict-free patient schedules. Users can input patients, doctors, and rooms to receive an optimized schedule and the underlying Python code that generates it.",
+  "requestFramePermissions": []
+}
